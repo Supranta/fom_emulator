@@ -1,4 +1,3 @@
-from pyDOE import lhs
 import chaospy
 import numpy as np
 from sklearn.decomposition import PCA
